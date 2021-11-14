@@ -11,3 +11,5 @@ lint:
 
 test:
 	python -m pytest -vv --cov=test_hello
+
+all: install format lint test
