@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b
 
-var =
+
 x = 5
 y = 3
 result = add(x, y)
