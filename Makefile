@@ -10,4 +10,4 @@ lint:
 
 
 test:
-	python -m pytest -vv --cov=test_hello.py
+	python -m pytest -vv --cov=test_hello
